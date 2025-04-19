@@ -11,5 +11,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Ethical+Hacker+%7C+Cyber+Security+Learner;Always+Learning+To+Help+Others;Red+Teaming+%7C+Penetration+Testing" alt="Typing SVG" />
 </p>
-
----
